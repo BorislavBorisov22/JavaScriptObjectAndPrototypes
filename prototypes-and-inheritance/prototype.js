@@ -6,7 +6,6 @@ function Cat(name, color) {
 }
 
 const fluffy = new Cat('fluffy', 'red');
-
 console.log(Cat.prototype);
 console.log(fluffy.__proto__);
 console.log(Cat.prototype === fluffy.__proto__);
