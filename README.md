@@ -1,2 +1,2 @@
 # JavaScriptObjectAndPrototypes
-Repository for the "JavaScript Object and Prototypes" course at pluralsight
+Repository for the "JavaScript Objects and Prototypes" course at pluralsight
