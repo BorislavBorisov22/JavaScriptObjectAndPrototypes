@@ -1,5 +1,3 @@
-'use strict';
-
 function Animal(voice) {
     this.voice = voice || 'grunt';
 }
